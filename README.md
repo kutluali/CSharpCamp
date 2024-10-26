@@ -37,7 +37,7 @@ Döngülerin devamı olan Foreach döngüsünü işliyoruz. Amacımız Foreach D
 
 
 📍**8.Proje: Döngüler**
-Bu adımda Belirli belirli görevleri yerine getiren kod blakları olan Metotları inceliyoruz. Bu bloklar tekrar tekara kod yazmamıza gerek kalmadan o kod bloğunun ismi ile çağırıp tek seferde işlemlerimizi yapmaıza olanak tanıyor. Geri Değer Döndürmeyen( "void" ), Geriye Değer Döndüren ("return") yapıları ve Parametre alıp almamasına göre örnekler yapıyoruz.
+Bu adımda Belirli belirli görevleri yerine getiren kod blakları olan Metotları inceliyoruz. Bu bloklar tekrar tekara kod yazmamıza gerek kalmadan o kod bloğunun ismi ile çağırıp tek seferde işlemlerimizi yapmaıza olanak tanıyor. Geri Değer Döndürmeyen("void"), Geriye Değer Döndüren ("return") yapıları ve Parametre alıp almamasına göre örnekler yapıyoruz.
 
 
 📍**9.Proje: Döngüler**
