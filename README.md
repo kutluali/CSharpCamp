@@ -1,4 +1,4 @@
-![dotnet-color](https://github.com/user-attachments/assets/ce266dae-a037-4f23-8282-b1e2054387b7) # EĞİTİM KAMPI
+<img src="https://example.com/dotnet-icon.svg" alt=".NET İkonu" width="20" height="20" /> # EĞİTİM KAMPI
 Murat Yücadağ Hocamın eğitmenliğindeki .NET Kampı sayesinde C# becerilerimi bir üst seviyeye çıkarmayı hedefliyorum. Kampın Genel manada bir bütün içinde olması çok güzel Alt Projeler halinde bölümlere ayırıyoruz.
 
 ___
