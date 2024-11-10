@@ -30,7 +30,7 @@ namespace _09_DatabaseProject
             tableNumber = Console.ReadLine();
             Console.WriteLine("-----------------------------------");     
 
-            SqlConnection connection=new SqlConnection("Data Source=DESKTOP-6J2APNJ; Initial Catalog = CampDb; Integrated Security = true;");
+            SqlConnection connection=new SqlConnection("Data Source=DESKTOP-6J2APNJ; Initial Catalog = CampDb; Integrated Security = true");
 
             SqlCommand command = new SqlCommand("Select * From TblCategory", connection);
             SqlDataAdapter adapter = new SqlDataAdapter(command);
